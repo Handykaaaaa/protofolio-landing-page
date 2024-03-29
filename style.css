@@ -1,0 +1,39 @@
+body {
+    padding-top: 60px;
+  }
+  
+  .jumbotron {
+    background-image: url('https://source.unsplash.com/wfh8dDlNFOk/1600x900');
+    background-size: cover; 
+    background-position: center;
+    color: white;
+    padding: 150px 0;
+  }
+
+  .nav {
+    background-color: rgb(186, 158, 121);
+    position: fixed;
+  }
+
+  .container1 img {
+    border-radius: 100%;
+    max-width: 120px;
+  }
+  
+  .card {
+    margin-bottom: 30px;
+  }
+  
+  /* footer {
+    margin-top: 30px;
+  } */
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(201, 222, 230);
+    color: white;
+    text-align: center;
+}
